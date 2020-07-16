@@ -8,4 +8,4 @@ Here you can find an easy-to-understand handbook of the *Chapter 14: **Clusters 
 
 So wear your nerdy hat :nerd_face: and enjoy our small effort.
 
-**PS** : Do read the book, it is worth it. I have also **uploaded soft copy** of the entire book :notebook_with_decorative_cover: so you don't have to scratch your heads on the Google.
+**PS** : Do read the book, it is worth it. I have also [***uploaded soft copy***](https://drive.google.com/file/d/19e1-4o3qLJfRL1Po4lCl4zrlZ9hb7wcC/view?usp=sharing) of the entire book :notebook_with_decorative_cover: so you don't have to scratch your heads on the Google.
