@@ -1,6 +1,7 @@
 # The Physical Universe 
 ## An Introduction to Astronomy : *Frank H. Shu*
 
+***UPDATE*** : Our summer project won award in the category "The Best Documentation" by SnT Council, IITK :clap: :clap:
 
 One of the most celebrated books to dive deep into astronomy :stars:, we members of Astronomy Club at IIT Kanpur read, discussed and analysed some of the interesting chapters, namely 14, 15 and 16 in this *2020 lockdown.*
 
