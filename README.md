@@ -1,5 +1,6 @@
-# The Physical Universe 
-## An Introduction to Astronomy : *Frank H. Shu*
+# RAD Handbook, Summer Project 2020
+## The Physical Universe 
+### An Introduction to Astronomy : *Frank H. Shu*
 
 ***UPDATE*** : Our summer project won award in the category "The Best Documentation" by SnT Council, IITK :clap: :clap:
 
